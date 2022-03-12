@@ -36,7 +36,7 @@ export default Notes
 
 // Only runs in the server
 export async function getServerSideProps() {
-  const res = await fetch(`http://localhost:3000/api/note`)
+  const res = await fetch(`${process.env.API_URL}/api/note`)
   const { data } = await res.json()
   return {
     props: { notes: data },

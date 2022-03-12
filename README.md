@@ -1,4 +1,4 @@
-## This is just a introduction do Next.js project. FrontendMasters
+## This is just a introduction do Next.js project. [FrontendMasters course]
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 

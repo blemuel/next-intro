@@ -15,7 +15,6 @@ export default Page
 
 export function getStaticProps() {
   // Getting data from somewhere
-
   return {
     props: {
       content: {
